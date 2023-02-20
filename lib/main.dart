@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:porownywarka_ekip/obliczenia.dart';
 import 'dart:math';
 
+// jk
 void main() {
   runApp(const MyApp());
 }
