@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:porownywarka_ekip/obliczenia.dart';
 import 'dart:math';
 
-// jkjk
+// jkjkjh
 void main() {
   runApp(const MyApp());
 }
