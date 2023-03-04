@@ -3,7 +3,6 @@ import 'package:porownywarka_ekip/obliczenia.dart';
 import 'dart:math';
 
 // jkjkjh
-//sks
 void main() {
   runApp(const MyApp());
 }
